@@ -1,0 +1,10 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dgoods
+  annotations:
+    github.com/project-slug: rad-ed/dgoods
+spec:
+  type: other
+  lifecycle: unknown
