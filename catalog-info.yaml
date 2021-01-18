@@ -6,5 +6,5 @@ metadata:
   annotations:
     github.com/project-slug: rad-ed/dgoods
 spec:
-  type: other
+  type: component
   lifecycle: unknown
