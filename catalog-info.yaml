@@ -7,5 +7,5 @@ metadata:
     github.com/project-slug: rad-ed/dgoods
 spec:
   type: component
-  owner: user:rad-ed
+  owner: user:guest
   lifecycle: unknown
